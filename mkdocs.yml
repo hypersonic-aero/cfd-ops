@@ -4,15 +4,15 @@
 # site metadata
 # --------------------------------------------------
 site_name: cfd-ops
-site_url: https://uahypersonics.github.io/cfd-ops
+site_url: https://hypersonic-aero.github.io/cfd-ops
 site_author: Christoph Hader
 site_description: Operations for transforming, extracting, remapping, and combining CFD datasets.
 
 # --------------------------------------------------
 # github repository (adds link in top right corner)
 # --------------------------------------------------
-repo_name: uahypersonics/cfd-ops
-repo_url: https://github.com/uahypersonics/cfd-ops
+repo_name: hypersonic-aero/cfd-ops
+repo_url: https://github.com/hypersonic-aero/cfd-ops
 edit_uri: edit/main/docs/
 
 # --------------------------------------------------

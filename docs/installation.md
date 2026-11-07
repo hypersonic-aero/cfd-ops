@@ -7,7 +7,7 @@
 ## From Source
 
 ```bash
-git clone https://github.com/uahypersonics/cfd-ops.git
+git clone https://github.com/hypersonic-aero/cfd-ops.git
 cd cfd-ops
 pip install -e .
 ```

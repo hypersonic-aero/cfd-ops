@@ -3,11 +3,11 @@
 Operations for transforming, extracting, remapping, and combining CFD datasets
 built on the [cfd-io](https://github.com/uahypersonics/cfd-io) data model.
 
-[![Test](https://github.com/uahypersonics/cfd-ops/actions/workflows/test.yml/badge.svg)](https://github.com/uahypersonics/cfd-ops/actions/workflows/test.yml)
-[![codecov](https://codecov.io/gh/uahypersonics/cfd-ops/branch/main/graph/badge.svg)](https://codecov.io/gh/uahypersonics/cfd-ops)
+[![Test](https://github.com/hypersonic-aero/cfd-ops/actions/workflows/test.yml/badge.svg)](https://github.com/hypersonic-aero/cfd-ops/actions/workflows/test.yml)
+[![codecov](https://codecov.io/gh/hypersonic-aero/cfd-ops/branch/main/graph/badge.svg)](https://codecov.io/gh/hypersonic-aero/cfd-ops)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19922271.svg)](https://doi.org/10.5281/zenodo.19922271)
 [![PyPI](https://img.shields.io/pypi/v/cfd-ops)](https://pypi.org/project/cfd-ops/)
-[![Docs](https://img.shields.io/badge/docs-zensical-blue)](https://uahypersonics.github.io/cfd-ops/)
+[![Docs](https://img.shields.io/badge/docs-zensical-blue)](https://hypersonic-aero.github.io/cfd-ops/)
 [![License](https://img.shields.io/badge/license-GPL--3.0--or--later-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-≥3.11-blue.svg)](https://www.python.org/downloads/)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
@@ -21,7 +21,7 @@ pip install cfd-ops
 
 ## Documentation
 
-Full documentation: https://uahypersonics.github.io/cfd-ops
+Full documentation: https://hypersonic-aero.github.io/cfd-ops
 
 ## Citation
 

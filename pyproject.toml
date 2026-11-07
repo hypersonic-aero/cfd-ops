@@ -42,8 +42,8 @@ docs = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/uahypersonics/cfd-ops"
-Repository = "https://github.com/uahypersonics/cfd-ops"
+Homepage = "https://github.com/hypersonic-aero/cfd-ops"
+Repository = "https://github.com/hypersonic-aero/cfd-ops"
 
 [project.scripts]
 cfd-ops = "cfd_ops.cli:main"

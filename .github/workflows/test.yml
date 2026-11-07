@@ -42,5 +42,5 @@ jobs:
         with:
           files: coverage.xml
           token: "${{ secrets.CODECOV_TOKEN }}"
-          slug: uahypersonics/cfd-ops
+          slug: hypersonic-aero/cfd-ops
           fail_ci_if_error: false
