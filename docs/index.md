@@ -1,7 +1,7 @@
 # cfd-ops
 
 Operations for transforming, extracting, remapping, and combining CFD datasets
-built on the [cfd-io](https://github.com/uahypersonics/cfd-io) data model.
+built on the [cfd-io](https://github.com/hypersonic-aero/cfd-io) data model.
 
 ## Quick Start
 
